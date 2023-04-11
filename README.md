@@ -1,7 +1,8 @@
 # wandb-CICD
+
 Project based in Weights &amp; Biases course: 
 
-This are resources for the W&B CI/CD and ML course: https://www.wandb.courses/aggmm
+This repo contains resources for the W&B CI/CD and ML course: https://www.wandb.courses/aggmm
 
 ## Execution procedure
 
