@@ -12,4 +12,4 @@ Project based in Weights &amp; Biases course: https://www.wandb.courses/aggmm
 
 > (ctrl + k) + v
 
-make a change
+make a change.
